@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Gamerlito · Lucía y Jason · Automático",
-  "short_name": "Gamerlito Automático",
+  "name": "Gamerlito · Lucia and Jason · Automatic",
+  "short_name": "Gamerlito Automatic",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
@@ -24,5 +24,6 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ]
+  ],
+  "lang": "en-US"
 }
